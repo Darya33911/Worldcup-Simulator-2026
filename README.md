@@ -27,7 +27,7 @@
 
 ##ساختار فایل‌ها
 
-```
+
 Worldcup-Simulator-2026/
 │
 
@@ -51,7 +51,7 @@ Worldcup-Simulator-2026/
 
 ---
 
-```markdown
+
 
 ##نحوه اجرا
 
