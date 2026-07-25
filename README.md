@@ -47,14 +47,12 @@ Worldcup-Simulator-2026/
 ├── world_cup_simulator.py  # کلاس اصلی
 
 └── worldcup_2026_teams.csv # داده‌های تیم‌ها
-```
 
 ---
 
 
 
 ##نحوه اجرا
-```
 ```bash
 python main.py
 ```
