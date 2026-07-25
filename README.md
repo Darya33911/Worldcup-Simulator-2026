@@ -24,9 +24,7 @@ World cup 2026 Simulator - Advanced Programming Project
 
 
 -  ساختار فایل‌ها
-Worldcup-Simulator-2026/
-
-│
+Worldcup-Simulator-2026/│
 
 ├── main.py # نقطه ورود برنامه
 
@@ -49,26 +47,29 @@ Worldcup-Simulator-2026/
 
 نحوه اجرا
 
-```bash
+
 python main.py
 
 
--مرحله گروهی
 
+
+خروجی نمونه
+
+مرحله گروهی
 ===== Group A =====
 1. Brazil: 9 pts, GD +5, GF 8
 2. France: 6 pts, GD +2, GF 5
 3. Argentina: 3 pts, GD -1, GF 3
 4. Japan: 0 pts, GD -6, GF 1
 
-
--فینال
+فینال
+   
 ===== Final =====
 Brazil 2 - 1 Germany
 Champion: Brazil
 
-
 شبیه‌سازی ۱۰۰۰ باره
+
 Simulation completed 1000 times.
 Championship percentages:
 ----------------------------------------
@@ -79,10 +80,7 @@ Germany             :   8.3%
 ...
 ----------------------------------------
 15 teams had 0% championship probability.
-
-
-
-توسعه‌دهنده
+👩‍💻 توسعه‌دهنده
 نام: دریا بهروز
 
 شماره دانشجویی: ۴۰۴۱۳۰۴۷۳
