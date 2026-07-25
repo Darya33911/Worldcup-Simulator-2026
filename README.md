@@ -54,7 +54,7 @@ Worldcup-Simulator-2026/
 
 
 ##نحوه اجرا
-
+```
 ```bash
 python main.py
 ```
