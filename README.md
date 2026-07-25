@@ -20,17 +20,28 @@ World cup 2026 Simulator - Advanced Programming Project
 
 - Python 3.14
 - کتابخانه‌های: `csv`, `os`, `random`, `math`
--
+
+
+
 -  ساختار فایل‌ها
 Worldcup-Simulator-2026/
+
 │
+
 ├── main.py # نقطه ورود برنامه
+
 ├── utils.py # توزیع پواسون
+
 ├── team.py # کلاس Team
+
 ├── match.py # کلاس Match
+
 ├── group.py # کلاس Group
+
 ├── knockout_stage.py # کلاس KnockoutStage
+
 ├── world_cup_simulator.py # کلاس اصلی
+
 └── worldcup_2026_teams.csv # داده‌های تیم‌ها
 
 
@@ -49,10 +60,14 @@ python main.py
 2. France: 6 pts, GD +2, GF 5
 3. Argentina: 3 pts, GD -1, GF 3
 4. Japan: 0 pts, GD -6, GF 1
+
+
 -فینال
 ===== Final =====
 Brazil 2 - 1 Germany
 Champion: Brazil
+
+
 شبیه‌سازی ۱۰۰۰ باره
 Simulation completed 1000 times.
 Championship percentages:
@@ -64,6 +79,9 @@ Germany             :   8.3%
 ...
 ----------------------------------------
 15 teams had 0% championship probability.
+
+
+
 توسعه‌دهنده
 نام: دریا بهروز
 
@@ -74,5 +92,3 @@ Germany             :   8.3%
 درس: برنامه‌سازی پیشرفته
 
 استاد: مرتضی بهرامی
-📄 مجوزommit new 
----
